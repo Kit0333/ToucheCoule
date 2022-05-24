@@ -1,4 +1,5 @@
 import sys
+import pygame
 pygame.init()
 def surface():
     ecran=pygame.display.set_mode()
